@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55278610868",
+    "project_id": "trialwithme-fa5aa",
+    "storage_bucket": "trialwithme-fa5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55278610868:android:c2f05c7ddd518ed2cdaae1",
+        "android_client_info": {
+          "package_name": "com.example.trialwithme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55278610868-hf9aidv5lru8g9oj59c6t7088or2m8fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_i51465MPwg0yMiRc4l1hrzw7dWGFa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55278610868-hf9aidv5lru8g9oj59c6t7088or2m8fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
